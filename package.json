@@ -1,0 +1,19 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "JavaScript Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlimaVIP/Calculator.git"
+  },
+  "author": "ilima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlimaVIP/Calculator/issues"
+  },
+  "homepage": "https://github.com/IlimaVIP/Calculator#readme"
+}
